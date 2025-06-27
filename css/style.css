@@ -43,14 +43,10 @@
 }
 
 .navbar a:hover{
-    background-color: rgb(251, 0, 59);
-    padding: 24px;
-    border-radius: 3px;
+   text-decoration: underline;
+   text-decoration-color: red;
 }
-.active{
-    background-color: rgb(251, 0, 59);;
-    padding: 24px;
-}
+
 .explore
 {
     padding: 5rem 21rem;
